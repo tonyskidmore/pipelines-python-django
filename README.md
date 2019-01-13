@@ -1,12 +1,8 @@
+[![Build Status](https://anthony-skidmore.visualstudio.com/sample%20app%20pipeline/_apis/build/status/sample%20app%20pipeline-CI?branchName=master)](https://anthony-skidmore.visualstudio.com/sample%20app%20pipeline/_build/latest?definitionId=3?branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
-
-| Example | Build status |
-|---------|--------------|
-| Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
-| Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
-| Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=15) |
 
 # Contributing
 
